@@ -1,7 +1,7 @@
 [project]
-org-name = "wso2"
-version = "0.8.9"
-authors = ["WSO2"]
-repository = "https://github.com/wso2-ballerina/package-gmail"
-keywords = ["ballerina", "gmail","email"]
+org-name = "marcus"
+version = "0.9.0"
+authors = ["Marcus"]
+repository = "https://github.com/NipunaMarcus/package-gcontacts"
+keywords = ["marcus", "googlecontacts"]
 license = "Apache-2.0"

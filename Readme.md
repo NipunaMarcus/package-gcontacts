@@ -10,9 +10,9 @@ It handles OAuth 2.0 authentication.
 The `erandig/gcontacts3` package contains operations to get Google Contacts user profile details.
 
 ## Compatibility
-|     Ballerina Language Version |    API Version     |  
+|     Ballerina Language Version |    Google API Version     |  
 | :-----------------:|:--------------:|
-|0.970.0 | v3 |
+|0.981.0 | v3 |
 
 ## Sample
 First, import the `erandig/gcontacts3` package into the Ballerina project.

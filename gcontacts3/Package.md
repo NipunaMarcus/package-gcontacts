@@ -7,17 +7,17 @@ It handles OAuth 2.0 authentication.
 
 **Operations**
 
-The `erandig/gcontacts3` package contains operations to get Google Contacts user profile details.
+The `marcus/gcontacts3` package contains operations to get Google Contacts user profile details.
 
 ## Compatibility
-|     Ballerina Language Version |    API Version     |  
+|     Ballerina Language Version |    Google API Version     |  
 | :-----------------:|:--------------:|
-|0.970.0 | v3 |
+|0.981.0 | v3 |
 
 ## Sample
-First, import the `erandig/gcontacts3` package into the Ballerina project.
+First, import the `marcus/gcontacts3` package into the Ballerina project.
 ```ballerina
-import erandig/gcontacts3;
+import marcus/gcontacts3;
 ```
 Instantiate the connector by giving authentication details in the HTTP client config, which has built-in support for 
 OAuth 2.0. Google Contacts uses OAuth 2.0 to authenticate and authorize requests. The Google Contacts connector can be 
